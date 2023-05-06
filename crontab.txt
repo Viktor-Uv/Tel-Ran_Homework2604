@@ -1,0 +1,1 @@
+*/15 * * * * /opt/060323_e/Viktor/taskViktor.sh
